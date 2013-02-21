@@ -1,0 +1,215 @@
+/* Large desktop */
+@media (min-width: 1200px) {
+  /*
+  * $Global (1200)
+  */
+  .section-header {
+    margin-left: 65px;
+  }
+
+  /*
+  * $Navigation (1200)
+  */
+  .navbar-fixed-top {
+    width: 1170px;
+  }
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  /*
+  * $Navigation (768-979)
+  */
+  .navbar-fixed-top {
+    position: relative;
+    width: 724px;
+    z-index: 999;
+  }
+  .navbar-fixed-top .navbar-inner {
+    background: #111111;
+  }
+
+  /*
+  * $Work (768-979)
+  */
+  .work-thumbs li {
+    margin-right: 2px;
+  }
+
+  .work-wraper {
+    padding: 0 20px;
+    min-height: 300px;
+  }
+
+  .current-work-holder {
+    min-height: 342px;
+  }
+
+  /*
+  * $About (768-979)
+  */
+  .member-holder {
+    width: auto;
+    padding: 0 20px;
+  }
+  .member-holder img {
+    display: block;
+    position: relative;
+    bottom: -25px;
+    z-index: 999;
+    margin: 0 auto;
+  }
+  .member-holder .member-info-wraper {
+    display: block;
+    position: relative;
+    float: none;
+    width: auto;
+    padding: 40px 20px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  /*
+  * $Contact (768-979)
+  */
+  .contact-wraper {
+    width: auto;
+  }
+  .contact-wraper .pull-left, .contact-wraper .pull-right {
+    float: none;
+  }
+  .contact-wraper .contact-info {
+    width: auto;
+    text-align: center;
+  }
+  .contact-wraper .contact-form {
+    border-top: 1px solid #eee;
+    padding-top: 50px;
+  }
+  .contact-wraper form {
+    width: 350px;
+    margin: 0 auto;
+    position: relative;
+    left: -150px;
+  }
+}
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  .section-header {
+    text-align: center;
+    position: relative;
+    left: -45px;
+  }
+
+  .hero-unit {
+    padding: 40px 40px;
+  }
+
+  /*
+  * $Navigation (767)
+  */
+  .navbar-fixed-top {
+    position: relative;
+    width: 100%;
+    z-index: 999;
+  }
+  .navbar-fixed-top .navbar-inner {
+    background: #111111;
+  }
+
+  /*
+  * $Work (767)
+  */
+  .current-work-holder {
+    min-height: 100px;
+  }
+
+  .work-thumbs li {
+    margin-right: 2px;
+    width: 130px;
+    height: 130px;
+  }
+
+  .work-wraper {
+    padding: 0 20px;
+    min-height: 0;
+  }
+
+  /*
+  * $About (768-979)
+  */
+  .members-wraper {
+    height: auto;
+  }
+
+  .member-holder {
+    width: auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+  .member-holder .pull-left, .member-holder .pull-right {
+    float: none;
+  }
+  .member-holder img {
+    display: block;
+    position: relative;
+    bottom: -25px;
+    z-index: 999;
+    margin: 0 auto;
+  }
+  .member-holder .social-icons {
+    margin-right: 0;
+  }
+  .member-holder .member-info-wraper {
+    display: block;
+    position: relative;
+    float: none;
+    width: auto;
+    height: auto;
+    padding: 40px 20px 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+
+  .members li {
+    display: block;
+    margin: 10px auto;
+  }
+
+  /*
+  * $Contact (767)
+  */
+  .contact-wraper {
+    width: auto;
+  }
+  .contact-wraper .pull-left, .contact-wraper .pull-right {
+    float: none;
+  }
+  .contact-wraper .contact-info {
+    width: auto;
+    text-align: center;
+  }
+  .contact-wraper .contact-form {
+    border-top: 1px solid #eee;
+    padding: 50px 20px;
+  }
+  .contact-wraper form {
+    margin: 0 auto;
+    position: relative;
+    left: -80px;
+  }
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  .contact-wraper form {
+    left: 0;
+  }
+  .contact-wraper form .btn {
+    width: 100%;
+  }
+}

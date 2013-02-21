@@ -1,0 +1,35 @@
+{
+    "stylesheets" : {
+    "default" : [
+     "bootstrap-responsive.css",
+     "bootstrap-responsive.min.css",
+     "bootstrap.min.css",
+     "avans.css",
+     "avans.min.css",
+     "avans-responsive.css",
+     "avans-responsive.min.css",
+     "style.css",
+    ],
+     
+      "widgets" : {
+        "google_prettify" : "twitter-bootstrap.css"
+      }
+      
+    },
+
+    "javascripts" : {
+    "default" : [
+     "http://code.jquery.com/jquery-latest.js",
+     "avans.js",
+     "bootstrap.js",
+     "bootstrap.min.js",
+     "jQuery.localScrollTo.js",
+     "jQuery.scrollTo.min.js",
+    ]
+    },
+    
+    "manifest" : {
+      "author" : "Sundays Energy",
+      "website" : "http://www.sundaysenergy.com"
+    }
+  }
