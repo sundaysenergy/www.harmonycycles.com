@@ -290,6 +290,7 @@ h2.lead {
   margin: 45px auto 75px auto;
   position: relative;
   left: 2px;
+  height: 172px;
   /* Make portfolio links */
 }
 .work-thumbs li {
