@@ -408,7 +408,7 @@ h2.lead {
 * $Flippa icons
 */
 .flippa-sprite, .flippa-digg, .flippa-dribbble, .flippa-facebook, .flippa-flickr, .flippa-forrst, .flippa-google-plus, .flippa-google, .flippa-gowalla, .flippa-last-fm, .flippa-linkedin, .flippa-rss, .flippa-share-this, .flippa-skype, .flippa-stumbleupon, .flippa-tumblr, .flippa-twitter, .flippa-vimeo, .flippa-you-tube {
-  background: url('../img/flippa-sf3ec09edbe.png') no-repeat;
+  background: url('../media/flippa-sf3ec09edbe.png') no-repeat;
 }
 
 .flippa-digg {
@@ -1418,4 +1418,8 @@ ul.icons li .icon-large:before {
 
 .icon-user-md:before {
   content: "\f200";
+}
+
+.member-info-wraper > p {
+  padding-top: 0px;
 }
