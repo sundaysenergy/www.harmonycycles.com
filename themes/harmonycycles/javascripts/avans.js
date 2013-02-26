@@ -33,7 +33,7 @@ jQuery(document).ready(function($) {
 			
 			work_holder.fadeOut(400); // fade out current portfolio item
 
-			$.scrollTo('140', 400, { // scroll window to portfolio-item holder
+			$.scrollTo('#work', 400, { // scroll window to portfolio-item holder
 				onAfter: function() {
 					loadPortfolioItem(url); // call function that loads portfolio item
 				}
@@ -41,6 +41,23 @@ jQuery(document).ready(function($) {
 
 		})
 	});
+	
+
+  $('#harmony-questions').bind('click', function(e) {
+			e.preventDefault(); // prevent default link behaviour
+
+			var url = $(this).attr('href'); // find href value
+			
+			work_holder.fadeOut(400); // fade out current portfolio item
+
+			$.scrollTo('#work', 400, { // scroll window to portfolio-item holder
+				onAfter: function() {
+					loadPortfolioItem(url); // call function that loads portfolio item
+				}
+			});
+
+  });
+
 
 
 	function loadPortfolioItem(url) {
