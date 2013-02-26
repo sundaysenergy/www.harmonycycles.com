@@ -1,9 +1,8 @@
 {
     "stylesheets" : {
     "default" : [
-     "bootstrap-responsive.css",
-     "bootstrap-responsive.min.css",
      "bootstrap.min.css",
+     "bootstrap-responsive.min.css",
      "avans.css",
      "avans-responsive.css",
      "style.css",
@@ -18,11 +17,10 @@
     "javascripts" : {
     "default" : [
      "http://code.jquery.com/jquery-latest.js",
-     "avans.js",
-     "bootstrap.js",
      "bootstrap.min.js",
-     "jQuery.localScrollTo.js",
+     "avans.js",
      "jQuery.scrollTo.min.js",
+     "jQuery.localScrollTo.js",
     ]
     },
     
