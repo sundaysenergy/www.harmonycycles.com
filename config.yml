@@ -39,4 +39,4 @@ paginator:
   # It is up to you to display the paginator_pagination links somewhere in this case.
   #
   # root_page has been set to the root for a more traditional style blog feel.
-  root_page: '/'
+  root_page: '/blog'
