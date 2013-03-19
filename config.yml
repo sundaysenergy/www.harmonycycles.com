@@ -23,7 +23,7 @@ theme:
 
 posts:
   permalink: "/:title/"
-  summary_lines: 20
+  summary_lines: 2
   latest: 5
 
 pages:
