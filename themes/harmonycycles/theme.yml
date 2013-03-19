@@ -1,13 +1,21 @@
 {
     "stylesheets" : {
-    "default" : [
-     "bootstrap.min.css",
-     "bootstrap-responsive.min.css",
-     "avans.css",
-     "avans-responsive.css",
-     "style.css",
-    ],
-     
+      "default" : [
+       "bootstrap.min.css",
+       "bootstrap-responsive.min.css",
+       "avans.css",
+       "avans-responsive.css",
+       "style.css",
+      ],
+      
+      "default" : [
+       "bootstrap.min.css",
+       "bootstrap-responsive.min.css",
+       "avans.css",
+       "avans-responsive.css",
+       "style.css",
+      ],
+         
       "widgets" : {
         "google_prettify" : "twitter-bootstrap.css"
       }
@@ -15,13 +23,20 @@
     },
 
     "javascripts" : {
-    "default" : [
-     "http://code.jquery.com/jquery-latest.js",
-     "bootstrap.min.js",
-     "avans.js",
-     "jQuery.scrollTo.min.js",
-     "jQuery.localScrollTo.js",
-    ]
+      "default" : [
+       "http://code.jquery.com/jquery-latest.js",
+       "bootstrap.min.js",
+       "avans.js",
+       "jQuery.scrollTo.min.js",
+       "jQuery.localScrollTo.js",
+      ],
+      "onepage" : [
+       "http://code.jquery.com/jquery-latest.js",
+       "bootstrap.min.js",
+       "avans.js",
+       "jQuery.scrollTo.min.js",
+       "jQuery.localScrollTo.js",
+      ],      
     },
     
     "manifest" : {
