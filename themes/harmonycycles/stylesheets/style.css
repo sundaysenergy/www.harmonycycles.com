@@ -78,3 +78,7 @@ body {
   height: 160px;
 }
 
+.content img {
+  float: left;
+  padding-right: 5px;
+}
