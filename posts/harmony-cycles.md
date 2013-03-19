@@ -11,9 +11,9 @@ We first needed to determine two things: what we could offer the community that 
 
 We connect with people on an individual level, meaning that we work primarily with scheduled visits. We do not use this connection to subsidize fancy inventory. The fundamental problem in many shops is that profits on bikes and merchandise are so low that labor dollars must be used to subsidize the largely irrelevant inventory. Consequently, ordinary people are both made to pay more and deprived of the individual connection that serves to facilitate a genuinely welcoming cycling experience. So cyclists cycle. Ordinary people do not. Well, we want to change that. 
 
-For many people, the products sold at bike shops are not only irrelevant, but excessive to the extent of confusion. For city riders, there are one or two tires that would suit most people. A wall of 30 announces that, *this decision is going to be difficult.* Similarly, having a choice of 10 different rear racks suggests that it *matters*. For most people, it does not. We intend to stock only the handful of products that will guide ordinary people to better bicycling experiences, without trying to turn them into *cyclists*.
+For many people, the products sold at bike shops are not only irrelevant, but excessive to the point of confusion. For city riders, there are one or two tires that would suit most people. A wall of 30 announces that, *this decision is going to be difficult.* Similarly, having a choice of 10 different rear racks suggests that it *matters*. For most people, it does not. We intend to stock only the handful of products that will guide ordinary people to better bicycling experiences, without trying to turn them into *cyclists*.
 
-The effect of this philosophy, when paired with its position alongside a web development company, will be an environment in which people get the individual attention they deserve, at reasonable prices, and without the intimidation that typically accompanies immersion in the world of bicycling.
+The consequence of this philosophy will hopefully be an environment in which people get the individual attention they deserve, at reasonable prices, and without the intimidation that typically accompanies immersion in the world of bicycling.
 
 Now, be a friend and click the stuff:
 
