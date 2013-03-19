@@ -8,7 +8,7 @@
        "style.css",
       ],
       
-      "default" : [
+      "onepage" : [
        "bootstrap.min.css",
        "bootstrap-responsive.min.css",
        "avans.css",
